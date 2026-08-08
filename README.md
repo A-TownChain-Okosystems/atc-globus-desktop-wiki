@@ -1,9 +1,9 @@
-# atc-globus-desktop-wiki
+# atc-globus-desktop Wiki
 
 📖 atc-globus-desktop Wiki — GlobusOS Desktop — Window Manager, Dock, Themes
 
-> **Organisation:** A-TownChain-Okosystems  
-> **Erstellt:** 2026-08-08  
+> **Organisation:** A-TownChain-Okosystems
+> **Erstellt:** 2026-08-08
 > **Agent:** Aurora (MasterBrain · Base44)
 
 ## Inhalte
